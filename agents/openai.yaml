@@ -1,0 +1,4 @@
+interface:
+  display_name: "Joint Pursuit Framework"
+  short_description: "Govern multi-company proposals with accountable AI"
+  default_prompt: "Use $joint-pursuit-framework to set up a governed joint proposal workspace for this opportunity."
